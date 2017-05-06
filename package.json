@@ -1,0 +1,17 @@
+{
+  "name": "with-apollo",
+  "version": "1.0.1",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "graphql": "^0.9.1",
+    "next": "latest",
+    "react": "^15.4.2",
+    "react-apollo": "^1.0.0-rc.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
